@@ -24,9 +24,9 @@ You can find the list of available commands with /help.
 
 Based From: @LyndaRobot
 ××××××××××××××××××××××××××
--> [Ace's Repo](https://github.com/Anomaliii/Ace/)
+-> [Sao Kirito's Repo](https://github.com/NoobPeoples/SaoKirito)
 ××××××××××××××××××××××××××
-`Maintained by` @Anomaliii
+`Maintained by` @RxyMX
 
 """
 
@@ -37,7 +37,7 @@ I'm a management bot.
 Have a look at the following for an idea of some of \
 the things I can help you with.
 
-I'm managed by [Ace](https://t.me/Anomaliii)
+I'm managed by [Ace](https://t.me/RxyMX)
 Chatbot module from [TheRealPhoenixBot](https://github.com/rsktg/TheRealPhoenixBot.git)
 Disaster module from [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)
 *Main* commands available:
@@ -53,12 +53,12 @@ Disaster module from [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-LYNDA_IMG = "https://telegra.ph/file/e2c51e3d6049655b113d7.jpg"
+LYNDA_IMG = "https://telegra.ph/file/7fff6e4f2ea9593daa2c0.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Chizuru is hosted on one of Heroku. \
 You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/muhnurfauzan73),."""
+There are two ways of supporting him; [PayPal](paypal.me/RxyMX),."""
 
 IMPORTED = {}
 MIGRATEABLE = []
